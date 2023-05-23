@@ -1,8 +1,6 @@
 # To-Do App
 
 > To-Do App built with Vue.js.
-> Live demo [_here_](https://todo-list-application-vuejs.netlify.app/).
-
 
 ## Installation and Setup Instructions
 
